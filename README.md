@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayKirange
 - 👀 I’m interested in TECH
-- 🌱 I’m currently learning Java,JS,.Net,DevOps etc. (Ofcourse not all at once!)
-- 💞️ I’m looking to collaborate on ... Not Yet!!!
+- 🌱 I’m currently learning PG-DAC
+- 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me - akshaykirange@gmail.com
 
 <!---
