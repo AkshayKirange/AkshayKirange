@@ -2,7 +2,7 @@
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning PG-DAC
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me - akshaykirange@gmail.com
+- 📫 How to reach me - akshaykirange@outlook.com
 
 <!---
 AkshayKirange/AkshayKirange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
