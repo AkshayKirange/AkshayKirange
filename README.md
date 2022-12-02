@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayKirange
 - 👀 I’m interested in TECH
-- 🌱 I’m currently learning PG-DAC
+- 🌱 I’m currently learning JavaScript, DevOps
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me - akshaykirange@outlook.com
 
